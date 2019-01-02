@@ -1319,7 +1319,7 @@
   border-width:0px;
   position:absolute;
   left:196px;
-  top:89px;
+  top:95px;
   width:188px;
   height:18px;
   font-family:'微软雅黑';
@@ -1931,8 +1931,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:38px;
+  width:51px;
+  height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1947,10 +1947,10 @@
 #u305 {
   border-width:0px;
   position:absolute;
-  left:229px;
+  left:225px;
   top:222px;
-  width:42px;
-  height:38px;
+  width:51px;
+  height:19px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -1960,7 +1960,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:51px;
   word-wrap:break-word;
 }
 #u306 {
